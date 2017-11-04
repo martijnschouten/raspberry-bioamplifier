@@ -8,3 +8,5 @@ EMG:
 U1A (channel 1) is used as reference channel. The measured signal is send back to the patient with a negative gain via the driven right leg. This results in feedback loop pulling this signal to zero.
 
 U1D (channel 4) is used as a measurement channel. This amplifier contains a high pass filter in order to filter out the DC offset of the signal and therefore allow a larger gain.
+
+U5 is configured as an amplifier with negative feedback, such that it functions as a driven right leg. The gain of the negative amplifier is limited at high frequencies (cutoff at 16Hz).
