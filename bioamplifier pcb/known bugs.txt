@@ -1,4 +1,0 @@
-1. The capacitances (C6-C9) of the low pass filters in front of the ADC result in noise on the analog ground, when high capacitance values are used (1 uF).
-2. Daisy chaining the boards is not possible since:
-	-No external clock can supplied
-	-Mixed up the CS and the DRDY signal...
