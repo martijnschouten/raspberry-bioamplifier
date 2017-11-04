@@ -1,0 +1,13 @@
+#include <iostream>
+#include <wiringPiSPI.h>
+#include <unistd.h>
+#include <wiringPi.h>
+#include <string>
+#include <cstring>
+#include <cstdlib>
+#include <cstring>
+#include <boost/asio.hpp>
+#include <iomanip>
+#include <sstream>
+#include <chrono>
+#include <boost/circular_buffer.hpp>

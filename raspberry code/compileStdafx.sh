@@ -1,0 +1,1 @@
+sudo g++ -c stdafx.h -o stdafx.h.gch -lboost_system -lpthread -lwiringPi 
