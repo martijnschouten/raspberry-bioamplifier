@@ -16,10 +16,12 @@ sudo apt-get install wiringpi
 sudo raspi-config
 
 
-To make the program starts at startup by add:
+To make the program starts at startup add:
 /bin/bash /usr/local/bin/readSPIhack.sh
 to /etc/rc.local, just above the exit 0 command
 
 To recompile use the compile.sh script
+bash /usr/local/bin/compile.sh
 
 To recompile the preheader use the compileStdafx.sh script
+bash /usr/local/bin/compileStdafx.sh
