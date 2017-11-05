@@ -9,4 +9,6 @@ U1A (channel 1) is used as reference channel. The measured signal is send back t
 
 U1D (channel 4) is used as a measurement channel. This amplifier contains a high pass filter in order to filter out the DC offset of the signal and therefore allow a larger gain.
 
+Futhermore the signal and in case of channel 4 the AC part of the signal is fed back to the shield. This is done in order to reduce the input capacitance due to the capacitance of the shielded cable.
+
 U5 is configured as an amplifier with negative feedback, such that it functions as a driven right leg. The gain of the negative amplifier is limited at high frequencies (cutoff at 16Hz).
