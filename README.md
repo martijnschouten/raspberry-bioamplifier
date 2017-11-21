@@ -5,7 +5,8 @@ To be able to measure the EMG and FMG a bioamplifier shield for the raspberry pi
 
 The data form the adc is read out using an Raspberry Pi Zero W. The program written in c++ used to read out the ADC and send the data to matlab via TCP/IP can be found in the "raspberry code" folder. The matlab scripts used to stream and process the data on the other side can be found in the folder "matlab scripts".
 
+[![Link to Youtube video](0.jpg)](https://youtu.be/Y4tf-qSCpeE "Video on Youtube")
 
-<img src="/flag_yellow_low.jpg" width="180">
+<img src="/flag_yellow_low.jpg" width="180" align="middle">
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 688857 (SoftPro)
