@@ -16,6 +16,6 @@ authors:
   orcid:  "https://orcid.org/0000-0001-9537-7123"
 title: "raspberry-bioamplifier"
 version: 1.0
-doi: 10.5281/zenodo.5750013 
+doi: 10.5281/zenodo.5750012
 date-released: 2021-12-02
 url: "https://github.com/martijnschouten/raspberry-bioamplifier"
