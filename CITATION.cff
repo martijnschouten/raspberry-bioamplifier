@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Martijn"
-  given-names: "Schouten"
+- family-names: "Schouten"
+  given-names: "Martijn"
   orcid: "https://orcid.org/0000-0001-9774-1195"
-- family-names: "Gerjan"
-  given-names: "Wolterink"
+- family-names: "Wolterink"
+  given-names: "Gerjan"
   orcid: "https://orcid.org/0000-0002-5095-5345"
 - family-names: "Pérez"
   given-names: "Eric"
